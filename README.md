@@ -38,9 +38,10 @@
 
 ## 📫 Connect With Me
 - **GitHub:** [@josephsbtn](https://github.com/josephsbtn)  
-- *(Add LinkedIn, email, or other links if you’d like)*
+- **LinkedIn:** [Joseph Sbtn](https://www.linkedin.com/in/josephsbtn?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- **Instagram:** [@josephsbtn](https://instagram.com/josephsbtn)
 
 ---
 
 ## ⚡ Fun Fact
-I love exploring new frameworks and solving algorithm challenges to improve problem-solving skills.
+I love exploring new frameworks and make some project to improve skills.
